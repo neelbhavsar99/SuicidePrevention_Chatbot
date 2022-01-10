@@ -1,11 +1,15 @@
 # Chatbot for Suicide Preventtion
 Built an automated bot system using HTML5, CSS, Bootstrap and JS creating using Google chatbot APIs that takes a collection of phrases based on an input received from user end.
 
+## Tech Stack
+##### Google NLP Dialogflow Chatbot API
+##### Software and Framework: HTML5, CSS, Bootstrap and JS creating
+
 Ryerson Engineering Competition 
-November 17, 2018
-Ryerson University
-SBI
-Neel Bhavsar, Yusef Khedr, Wrichiek Kar, Rylan Lobo
+### November 17, 2018
+### Ryerson University
+### SBI
+### Group Members: Neel Bhavsar, Yusef Khedr, Wrichiek Kar, Rylan Lobo
 
 # Cover Page
 
