@@ -15,6 +15,8 @@ We split up our work by Front End coders and Back End coding, having one member 
 
 We thought alot about our target audience and how to make our code truly useful rather than computationally appealing. 
 
+<img src="CoverPage_Charbot.png" >
+
 # Design Justification
 
 For our website design we wanted to have a site that focused on the interaction between the user and a bot. This bot would provide a platform for the user to express themselves and their feelings, while simultaneously giving them someone to talk to. In addition to the bot, the website provides information on how to get in contact with a distress centre if the user is contemplating suicide or having any suicidal thoughts. The other link is for an addiction centre in Toronto that can help the user fight an addiction by entering rehab, if the user believes that addiction is leading to suicidal thoughts or harming their life in any capacity. For the design of the bot, we wanted it to be able to hold a conversation with the user, rather than prompting the user what to say. This allows the user to express themselves however they feel and they can also choose what topics to discuss. The bot is designed to detect key words and phrases inputted from the person, and based on the words/phrase said, the bot will respond with a randomized response related to the topic entered by the user. For example, someone who is talking about self harm would get a response urging them not to do it or telling them alternate actions to help combat and resist their urges.  
